@@ -282,3 +282,8 @@
 /Users/ali/Desktop/CourseWork/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
 /Users/ali/Desktop/CourseWork/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/ali/Desktop/CourseWork/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/ali/Desktop/CourseWork/bin/Debug/net8.0/BouncyCastle.Cryptography.dll
+/Users/ali/Desktop/CourseWork/bin/Debug/net8.0/MailKit.dll
+/Users/ali/Desktop/CourseWork/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ali/Desktop/CourseWork/bin/Debug/net8.0/MimeKit.dll
+/Users/ali/Desktop/CourseWork/obj/Debug/net8.0/CourseWork.sourcelink.json

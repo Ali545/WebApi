@@ -14,4 +14,3 @@ namespace Coursework.Models
 		public int? PatientId { get; set; }
     }
 }
-
