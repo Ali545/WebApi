@@ -57,7 +57,7 @@ The system includes controllers for user management, patient management, doctor 
 Dependency Injection is employed for better code organization, and logging is implemented to track application events.
 
 ## Database Design: 
-<img src="../CourseWork/WebApi.png"/>
+<img src="https://github.com/Ali545/WebApi/blob/main/databaseDesign.png"/>
 
 ## How to Run
 1. Install Microsoft Visual Studio Code, Postman and dotnet framework 8.0.2 stable release.
