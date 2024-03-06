@@ -8,6 +8,7 @@ namespace Coursework.Models
 
 		public int? billAmount { get; set; }
 
+		[JsonIgnore]
 		public DateTime? billDate { get; set; }
 
 		[JsonIgnore]

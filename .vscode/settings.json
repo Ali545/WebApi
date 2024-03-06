@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net8.0/publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c694ac9d-be1b-420d-897c-282583c68fa2/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/clinicwebapi2"
+}

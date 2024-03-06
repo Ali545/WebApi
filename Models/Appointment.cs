@@ -5,9 +5,9 @@ namespace Coursework.Models
 	{
         public int AppointmentId { get; set; }
 
-        public Patient? Patient { get; set; }
+        public int patientId { get; set; }
 
-        public Doctor? Doctor { get; set; }
+        public int doctorId { get; set; }
         
         public DateTime AppointmentDateTime { get; set; }
     }

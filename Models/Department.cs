@@ -5,7 +5,7 @@ namespace Coursework.Models
 	{
 		public int departmentId { get; set; }
 
-		public int departmentName { get; set; }
+		public string departmentName { get; set; }
 
 	}
 }

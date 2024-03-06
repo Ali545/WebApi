@@ -7,11 +7,6 @@ namespace Coursework.Models
 
 		public string? doctorName { get; set; }
 
-		[JsonIgnore]
 		public int departmentId { get; set; }
-
-		[JsonIgnore]
-		public Department? department { get; set; }
 	}
 }
-
