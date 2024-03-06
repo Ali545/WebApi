@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ali/Desktop/CourseWork/CourseWork.csproj": {}
+    "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/CourseWork.csproj": {}
   },
   "projects": {
-    "/Users/ali/Desktop/CourseWork/CourseWork.csproj": {
+    "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/CourseWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ali/Desktop/CourseWork/CourseWork.csproj",
+        "projectUniqueName": "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/CourseWork.csproj",
         "projectName": "CourseWork",
-        "projectPath": "/Users/ali/Desktop/CourseWork/CourseWork.csproj",
+        "projectPath": "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/CourseWork.csproj",
         "packagesPath": "/Users/ali/.nuget/packages/",
-        "outputPath": "/Users/ali/Desktop/CourseWork/obj/",
+        "outputPath": "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ali/.nuget/NuGet/NuGet.Config"

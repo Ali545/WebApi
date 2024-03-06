@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+AjhAZ4laTSv4iEeDh/Ge8sOUqfy068UEUWzhOc/zjRi8BpHTGIVF2yObOROlrrC2jwAfskWDoJbK6k2fB7WxQ==",
+  "dgSpecHash": "ubMXP1DBCRVJsvruKrYdYB7MnWCQ7IR0KjE6bx5e9JBae1P0q+mCMRnuIpoMQ2y/9lEUNyHjCFqt7u5rmKGzPw==",
   "success": true,
-  "projectFilePath": "/Users/ali/Desktop/CourseWork/CourseWork.csproj",
+  "projectFilePath": "/Users/ali/Downloads/UoW/CourseWorks/Web/CourseWork/CourseWork.csproj",
   "expectedPackageFiles": [
     "/Users/ali/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/ali/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
